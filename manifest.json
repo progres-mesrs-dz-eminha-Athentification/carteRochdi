@@ -1,0 +1,40 @@
+{
+    "name": "webetu",
+    "short_name": "webetu",
+    "icons": [
+      {
+        "src": "./108.png",
+        "sizes": "108x108",
+        "type": "image/png",
+        "purpose": "any maskable"
+      },
+      {
+        "src": "./162.png",
+        "sizes": "162x162",
+        "type": "image/png"
+      },
+      {
+        "src": "./216.png",
+        "sizes": "216x216",
+        "type": "image/png",
+        "purpose": "any maskable"
+      },
+      {
+        "src": "./324.png",
+        "sizes": "324x324",
+        "type": "image/png",
+        "purpose": "any maskable"
+      },
+      {
+        "src": "./432.png",
+        "sizes": "432x432",
+        "type": "image/png",
+        "purpose": "any maskable"
+      }
+    ],
+    "theme_color": "#f2f2f2",
+    "background_color": "#f2f2f2",
+    "start_url": "/carteRochdi/",
+    "display": "standalone",
+    "orientation": "portrait"
+  }
